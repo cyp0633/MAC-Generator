@@ -7,3 +7,5 @@ This program contains prefixes from manufacturers. Run it with Python, and you c
 用路由器桥接校园网，常常无故丢IPv6，需要换一批MAC地址才可以重新获取，故作此程序自动生成。
 
 The IPv6 address of my router sometimes gets lost when it's bridging campus network, and it can only be solved by changing MACs (at least for now). That's why I made the program.
+
+**Warning**: This project is no longer updated. Use [this tool](https://maclookup.app/random-mac-address-generator) instead for more powerful generation.
